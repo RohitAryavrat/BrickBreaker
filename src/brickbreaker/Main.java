@@ -66,7 +66,7 @@ public class Main extends Application {
 
     public class MainFrame {
         // Instance of scene root node
-        private Group root;
+        private Group root
 
         // Instance of splash (if exists)
         private Splash splash;
