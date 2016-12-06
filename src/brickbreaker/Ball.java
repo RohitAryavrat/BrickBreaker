@@ -35,7 +35,7 @@ import javafx.scene.Parent;
 import javafx.scene.image.ImageView;
 
 public class Ball extends Parent {
-    
+    // UI_SCREEN “Ball”
     public static final int DEFAULT_SIZE = 2;
     
     public static final int MAX_SIZE = 5;

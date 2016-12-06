@@ -43,7 +43,7 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 
 public class Splash extends Parent {
-
+//UI_SCREEN “Splash screen”
     private static final int STATE_SHOW_TITLE = 0;
     private static final int STATE_SHOW_STRIKE = 1;
     private static final int STATE_SUN = 2;

@@ -38,7 +38,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-
+//UI_SCREEN “Main screen”
     private static MainFrame mainFrame;
 
     public static MainFrame getMainFrame() {
