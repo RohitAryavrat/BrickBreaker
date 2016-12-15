@@ -36,6 +36,7 @@ import javafx.scene.Group;
 import javafx.scene.Parent;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+//import Ball;
 
 public class Bat extends Parent {
 	//UI_SCREEN  “Bat”

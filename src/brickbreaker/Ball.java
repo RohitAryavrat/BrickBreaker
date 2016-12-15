@@ -32,6 +32,8 @@
 package brickbreaker;
 
 import javafx.scene.Parent;
+//import Bat;
+
 import javafx.scene.image.ImageView;
 
 public class Ball extends Parent {
@@ -50,6 +52,7 @@ public class Ball extends Parent {
         getChildren().add(imageView);
         changeSize(DEFAULT_SIZE);
         setMouseTransparent(true);
+
     }
 
     public int getSize() {
